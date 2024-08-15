@@ -21,6 +21,7 @@ public class 시험성적 {
             System.out.println("D");
         } else {
             System.out.println("F");
+
         }
     }
 }

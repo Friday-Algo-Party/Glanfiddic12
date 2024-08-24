@@ -24,6 +24,7 @@ public class 구구단 {
         {
 
             br.close();
+
         }
     }
 }

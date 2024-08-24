@@ -39,7 +39,8 @@ public class 웰컴키트 {
         bw.write(cnt + "\n"); // 필요한 세트 수 출력
         bw.write(N / P + " " + N % P); // 인원 수에 따른 팩과 나머지 인원 수 출력
 
-        // BufferedReader와 BufferedWriter를 닫아 자원을 해제
+        // BufferedReader와 BufferedWriter를 닫아 자원을 해제한다.
+
         br.close();
         bw.flush();
         bw.close();

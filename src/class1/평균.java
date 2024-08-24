@@ -37,7 +37,7 @@ public class 평균 {
         // 이 식은 특정 문제에서 평균을 조정된 값으로 구하는 방법일 수 있습니다.
         double avg = (double)sum / (double)max * 100 / n.length;
 
-        // 계산된 평균을 출력합니다.
+        // 계산된 평균을 출력합니다..
         System.out.println(avg);
     }
 }

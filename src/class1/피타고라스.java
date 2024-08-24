@@ -37,3 +37,5 @@ public class 피타고라스 {
         return Math.abs(c * c - (a * a + b * b)) < 0.0001;
     }
 }
+
+//

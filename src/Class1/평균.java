@@ -1,4 +1,4 @@
-package class1;
+package Class1;
 import java.util.Scanner;
 
 public class 평균 {

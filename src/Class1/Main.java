@@ -1,4 +1,4 @@
-package class1;
+package Class1;
 
 class Animal {
     // 부모 클래스의 메서드
